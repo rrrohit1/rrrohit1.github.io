@@ -4,19 +4,13 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>👋 Hi, I'm Rohit</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a Senior Applied Scientist with a deep passion for building intelligent systems that solve real-world problems. With a background in mathematics and data science, I specialize in Natural Language Processing, GenAI, and machine learning applications that drive impact at scale.</p>
+
+<p>Over the years, I’ve worked on projects ranging from fine-tuning LLMs for product descriptions to deploying scalable ML microservices that enhance search relevance. Whether it’s building chat agents with memory or optimizing customer support pipelines, I enjoy crafting thoughtful solutions that blend innovation with practicality.</p>
+
+<p>This portfolio is a glimpse into my journey — the projects, the challenges, and the creative ways I approach problem-solving in AI.</p>
 
 <h2>Skills</h2>
 
